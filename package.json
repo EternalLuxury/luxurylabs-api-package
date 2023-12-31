@@ -1,6 +1,6 @@
 {
   "name": "luxurylabs-api",
-  "version": "1.0.3-beta",
+  "version": "1.0.4-beta",
   "description": "The authorised npm package for the LuxuryLabs API.",
   "main": "index.js",
   "scripts": {
@@ -19,6 +19,10 @@
     "freegenerator",
     "fun"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EternalLuxury/luxurylabs-api-package.git"
+  },  
   "author": "LuxuryLabs",
   "license": "ISC",
   "dependencies": {
